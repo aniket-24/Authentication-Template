@@ -29,7 +29,7 @@ const Login = () => {
       <main>
         <section>
           <div>
-            <p> FocusApp </p>
+            <h1> Authentication Template </h1>
 
             <form>
               <div>

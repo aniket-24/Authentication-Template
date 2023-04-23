@@ -21,6 +21,7 @@ const Signout = () => {
   return (
     <>
       <nav>
+        <h1> Authentication Template </h1>
         <p>Welcome Home</p>
 
         <div>
